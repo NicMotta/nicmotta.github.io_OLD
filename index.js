@@ -16,10 +16,10 @@ window.onload = function () {
 
   document.getElementById("footer").innerHTML = `
   <div class="grid grid-cols-2 gap-1 text-sm text-center mt-3 m-1 md:grid-cols-4 text-gray-500">
-  <a href="/" class="border-2 border-gray-300 hover:bg-gray-300">instagram</a>
-  <a href="/" class="border-2 border-gray-300 hover:bg-gray-300">linkedin</a>
-  <a href="/" class="border-2 border-gray-300 hover:bg-gray-300">youtube</a>
-  <a href="/" class="border-2 border-gray-300 hover:bg-gray-300">github</a>
+  <a href="instagram.com/nicmotta_" class="border-2 border-gray-300 hover:bg-gray-300">instagram</a>
+  <a href="https://www.linkedin.com/in/nic-motta/" class="border-2 border-gray-300 hover:bg-gray-300">linkedin</a>
+  <a href="https://www.youtube.com/channel/UCzcHwERGhtBfxYfLtzDT0nA" class="border-2 border-gray-300 hover:bg-gray-300">youtube</a>
+  <a href="https://github.com/NicMotta" class="border-2 border-gray-300 hover:bg-gray-300">github</a>
   
 </div>
 <p class="text-center text-base text-gray-500">n i c , m o t t a  - 2022</p>
