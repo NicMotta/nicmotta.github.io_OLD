@@ -20,7 +20,7 @@ window.onload = function () {
   <a href="https://www.linkedin.com/in/nic-motta/" class="border-2 border-gray-300 hover:bg-gray-300">linkedin</a>
   <a href="https://www.youtube.com/channel/UCzcHwERGhtBfxYfLtzDT0nA" class="border-2 border-gray-300 hover:bg-gray-300">youtube</a>
   <a href="https://github.com/NicMotta" class="border-2 border-gray-300 hover:bg-gray-300">github</a>
-  <a href="nicmotta.artstation.com" class="border-2 border-gray-300 hover:bg-gray-300">artstation</a>
+  <a href="https://nicmotta.artstation.com" class="border-2 border-gray-300 hover:bg-gray-300">artstation</a>
   
 </div>
 <p class="text-center text-base text-gray-500">n i c , m o t t a  - 2022</p>
