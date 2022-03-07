@@ -10,7 +10,7 @@ window.onload = function () {
     <a href="index.html" class="border-2 border-gray-300 hover:bg-gray-300">[ proyectos ]</a>
     <a href="bio.html" class="border-2 border-gray-300 hover:bg-gray-300">[ bio ]</a>
     <a href="exhibiciones.html" class="border-2 border-gray-300 hover:bg-gray-300">[ exhibiciones ]</a>
-    <a href="repositorios.html" class="border-2 border-gray-300 hover:bg-gray-300">[ repositorios ]</a>
+    <a href="portfolio.html" class="border-2 border-gray-300 hover:bg-gray-300">[ portfolio ]</a>
   </div>
   <!-- HEADER -->`;
 
